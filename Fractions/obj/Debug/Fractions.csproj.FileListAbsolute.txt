@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\bin\Debug\Fractions.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\bin\Debug\Fractions.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\bin\Debug\Fractions.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\obj\Debug\Fractions.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Fractions\obj\Debug\Fractions.pdb

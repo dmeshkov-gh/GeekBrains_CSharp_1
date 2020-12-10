@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\bin\Debug\CenterText.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\bin\Debug\CenterText.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\bin\Debug\CenterText.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\obj\Debug\CenterText.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\obj\Debug\CenterText.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\obj\Debug\CenterText.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\CenterText\obj\Debug\CenterText.pdb

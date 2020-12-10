@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\bin\Debug\AccessAuthorization.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\bin\Debug\AccessAuthorization.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\bin\Debug\AccessAuthorization.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\obj\Debug\AccessAuthorization.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\obj\Debug\AccessAuthorization.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\obj\Debug\AccessAuthorization.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\AccessAuthorization\obj\Debug\AccessAuthorization.pdb

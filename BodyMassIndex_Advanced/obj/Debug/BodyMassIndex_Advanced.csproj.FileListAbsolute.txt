@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\bin\Debug\BodyMassIndex_Advanced.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\bin\Debug\BodyMassIndex_Advanced.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\bin\Debug\BodyMassIndex_Advanced.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\obj\Debug\BodyMassIndex_Advanced.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\obj\Debug\BodyMassIndex_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\obj\Debug\BodyMassIndex_Advanced.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_Advanced\obj\Debug\BodyMassIndex_Advanced.pdb

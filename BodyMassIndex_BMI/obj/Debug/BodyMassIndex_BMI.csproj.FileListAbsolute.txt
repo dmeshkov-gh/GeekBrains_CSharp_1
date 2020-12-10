@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\bin\Debug\BodyMassIndex_BMI.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\bin\Debug\BodyMassIndex_BMI.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\bin\Debug\BodyMassIndex_BMI.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\obj\Debug\BodyMassIndex_BMI.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\obj\Debug\BodyMassIndex_BMI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\obj\Debug\BodyMassIndex_BMI.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\BodyMassIndex_BMI\obj\Debug\BodyMassIndex_BMI.pdb

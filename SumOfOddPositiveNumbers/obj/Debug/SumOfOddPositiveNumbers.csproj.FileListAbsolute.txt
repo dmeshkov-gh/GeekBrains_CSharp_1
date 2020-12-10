@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\bin\Debug\SumOfOddPositiveNumbers.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\bin\Debug\SumOfOddPositiveNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\bin\Debug\SumOfOddPositiveNumbers.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\obj\Debug\SumOfOddPositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\obj\Debug\SumOfOddPositiveNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\obj\Debug\SumOfOddPositiveNumbers.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfOddPositiveNumbers\obj\Debug\SumOfOddPositiveNumbers.csprojAssemblyReference.cache

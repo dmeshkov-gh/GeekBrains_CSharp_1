@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\bin\Debug\SumOfPositiveUnevenNumbers.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\bin\Debug\SumOfPositiveUnevenNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\bin\Debug\SumOfPositiveUnevenNumbers.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\obj\Debug\SumOfPositiveUnevenNumbers.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\obj\Debug\SumOfPositiveUnevenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\obj\Debug\SumOfPositiveUnevenNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\SumOfPositiveUnevenNumbers\obj\Debug\SumOfPositiveUnevenNumbers.pdb

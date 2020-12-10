@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\bin\Debug\DistanceBetween2Points.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\bin\Debug\DistanceBetween2Points.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\bin\Debug\DistanceBetween2Points.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\obj\Debug\DistanceBetween2Points.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\obj\Debug\DistanceBetween2Points.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\obj\Debug\DistanceBetween2Points.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DistanceBetween2Points\obj\Debug\DistanceBetween2Points.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\bin\Debug\DigitCounter.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\bin\Debug\DigitCounter.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\bin\Debug\DigitCounter.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\obj\Debug\DigitCounter.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\obj\Debug\DigitCounter.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\obj\Debug\DigitCounter.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\DigitCounter\obj\Debug\DigitCounter.csprojAssemblyReference.cache

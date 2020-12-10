@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\bin\Debug\GoodNumbers.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\bin\Debug\GoodNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\bin\Debug\GoodNumbers.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\obj\Debug\GoodNumbers.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\obj\Debug\GoodNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\obj\Debug\GoodNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\GoodNumbers\obj\Debug\GoodNumbers.pdb

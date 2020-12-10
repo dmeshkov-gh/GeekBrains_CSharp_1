@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\bin\Debug\Meshkov.CS-1.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\bin\Debug\Meshkov.CS-1.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\bin\Debug\Meshkov.CS-1.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\obj\Debug\Questionary.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\obj\Debug\Questionary.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\obj\Debug\Meshkov.CS-1.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\Meshkov.CS-1\obj\Debug\Meshkov.CS-1.pdb
