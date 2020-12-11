@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\bin\Debug\PairingOfNumbers.exe.config
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\bin\Debug\PairingOfNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\bin\Debug\PairingOfNumbers.pdb
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\obj\Debug\PairingOfNumbers.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\obj\Debug\PairingOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\obj\Debug\PairingOfNumbers.exe
+C:\Users\Andrew\Desktop\GeekBrains\CSharp-1\Meshkov.CS-1\PairingOfNumbers\obj\Debug\PairingOfNumbers.pdb

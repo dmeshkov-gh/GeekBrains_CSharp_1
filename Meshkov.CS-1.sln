@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fractions\Frac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPositiveUnevenNumbers", "SumOfPositiveUnevenNumbers\SumOfPositiveUnevenNumbers.csproj", "{32FDDF91-47E7-4F37-9707-82223D7AF086}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson-4 HomeWork", "Lesson-4 HomeWork", "{2B384D5B-28E2-4ECC-9448-AE08C25E71A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairingOfNumbers", "PairingOfNumbers\PairingOfNumbers.csproj", "{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,10 @@ Global
 		{32FDDF91-47E7-4F37-9707-82223D7AF086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FDDF91-47E7-4F37-9707-82223D7AF086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FDDF91-47E7-4F37-9707-82223D7AF086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +126,7 @@ Global
 		{A82A8CE2-4D35-4940-AB1F-B4EEEE10213B} = {1AC64065-0C81-461B-BABD-61556A41ECC2}
 		{A1D310A0-AC74-4AC1-923A-A1071B879B04} = {572B7453-8FEC-4959-97A2-7BF51EFE7B9F}
 		{32FDDF91-47E7-4F37-9707-82223D7AF086} = {572B7453-8FEC-4959-97A2-7BF51EFE7B9F}
+		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55358A68-3DAB-494A-AD46-CF5CF98E0913}
