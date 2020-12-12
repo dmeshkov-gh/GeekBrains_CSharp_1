@@ -15,7 +15,7 @@ namespace PairingOfNumbers
         //Элементы массива могут принимать целые значения от –10 000 до 10 000 включительно. 
         //Написать программу, позволяющую найти и вывести количество пар элементов массива, в которых хотя бы одно число делится на 3.
 
-        static void Main(string[] args)
+        static void Main()
         {
             int[] numbers = new int[20];
             FillTheArray(numbers);
