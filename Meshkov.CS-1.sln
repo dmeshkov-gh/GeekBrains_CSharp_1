@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairingOfNumbers", "Pairing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArrayClass", "MyArrayClass\MyArrayClass.csproj", "{12B91246-E880-46F9-9A93-095FEC0B3220}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAuthorization_FromFile", "AccountAuthorization_FromFile\AccountAuthorization_FromFile.csproj", "{91301470-F8A6-43E8-9581-ED7F198A074E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{12B91246-E880-46F9-9A93-095FEC0B3220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B91246-E880-46F9-9A93-095FEC0B3220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B91246-E880-46F9-9A93-095FEC0B3220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91301470-F8A6-43E8-9581-ED7F198A074E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91301470-F8A6-43E8-9581-ED7F198A074E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91301470-F8A6-43E8-9581-ED7F198A074E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91301470-F8A6-43E8-9581-ED7F198A074E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -134,6 +140,7 @@ Global
 		{32FDDF91-47E7-4F37-9707-82223D7AF086} = {572B7453-8FEC-4959-97A2-7BF51EFE7B9F}
 		{CD9A66A8-AAFF-4CB8-BD2D-DE8C418142EF} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
 		{12B91246-E880-46F9-9A93-095FEC0B3220} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
+		{91301470-F8A6-43E8-9581-ED7F198A074E} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55358A68-3DAB-494A-AD46-CF5CF98E0913}
