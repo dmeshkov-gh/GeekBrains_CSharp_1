@@ -22,9 +22,10 @@ namespace LoginChecker
                 else throw new Exception("Логин должен содержать от 2 до 10 символов");
             }
         }
-        public Login(string login)
+        public Login(string login) //Для проверки закомментить
         {
-            if(IsCorrect(login)) LogIn = login;
+            if (IsCorrect(login)) LogIn = login;
+            //if (IsCorrectRegex(login)) _login = login;
         }
 
         private bool IsCorrect(string login) //без использования регулярных выражений
