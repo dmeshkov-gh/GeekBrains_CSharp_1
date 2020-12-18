@@ -8,20 +8,18 @@ namespace ExamTask
 {
     class Student
     {
-        private int _numberOfStudents;
-        private int[] _grades;
-        private string _firstName;
+        private string _name;
         private string _lastName;
-        public string FirstName 
-        { 
+        public string Name 
+        {
             get 
             {
-                return _firstName;
-            } 
-            set 
+                return _name;
+            }
+            private set
             {
-                if (value.Length > 15) throw new Exception("Имя не должно быть длиннее 15 символов");
-                _firstName = value;
+                if (value.Length >= 15) throw new Exception("Имя должно состоять не более чем из 15 символов");
+                _name = value;
             } 
         }
         public string LastName
@@ -30,11 +28,26 @@ namespace ExamTask
             {
                 return _lastName;
             }
-            set
+            private set
             {
-                if (value.Length > 15) throw new Exception("Имя не должно быть длиннее 15 символов");
-                _firstName = value;
+                if (value.Length >= 20) throw new Exception("Имя должно состоять не более чем из 20 символов");
+                _lastName = value;
             }
+        }
+        public int[] Grades { get; private set; }
+        public Student(string name, string lastname, int[] grades)
+        {
+            Name = name;
+            LastName = lastname;
+            Grades = grades;
+        }
+        public double GetAverageGrade()
+        {
+            int sum = 0;
+            for(int i = 0; i < Grades.Length; i++)
+                sum += Grades[i];
+            double averageGrade = (double)sum / Grades.Length;
+            return averageGrade;
         }
     }
 }

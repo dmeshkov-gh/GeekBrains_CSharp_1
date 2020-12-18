@@ -1,27 +1,30 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace ExamTask
 {
     class FileHandler
     {
-        internal static int ReadFromFile(string filename)
+        public static List<Student> ReadStudentsFromFile(string filename)
         {
-            try
+            StreamReader stream = new StreamReader(filename);
+            string stringFromFile;
+            List<Student> students = new List<Student>();
+            while ((stringFromFile = stream.ReadLine()) != null)    //Считываем построчно
             {
-                using (StreamReader streamReader = new StreamReader(filename))
+                string[] data = stringFromFile.Split(' ');  //Разделяем массив на подстроки
+                int[] grades = new int[3]; // Записываем оценки в массив                 
+                for (int i = 0; i < grades.Length; i++)
                 {
-                    int numberOfStudents = int.Parse(streamReader.ReadLine());
-                    if (numberOfStudents >= 10 && numberOfStudents <= 100)
-                    {
-                        Student[] students = new Student[numberOfStudents];
-                    }
-                    return numberOfStudents;
+                    grades[i] = Convert.ToInt32(data[i + 2]);
                 }
-               
-
+                Student student = new Student(data[1], data[0], grades); //Через конструктор записываем данные студента - фамилию, имя, оценки
+                students.Add(student);  //Добавляем студента в список
             }
-            finally { }
+            if (students.Count < 10 || students.Count > 100) throw new Exception("Количество студентов не должно быть меньше 10 или больше 100");
+            stream.Close();
+            return students;
         }
     }
 }
