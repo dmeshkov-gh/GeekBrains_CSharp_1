@@ -49,6 +49,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson-5 HomeWork", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageClass", "MessageClass\MessageClass.csproj", "{BD4E1660-1520-458B-A009-CE1BE6EC6239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginChecker", "LoginChecker\LoginChecker.csproj", "{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{BD4E1660-1520-458B-A009-CE1BE6EC6239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD4E1660-1520-458B-A009-CE1BE6EC6239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD4E1660-1520-458B-A009-CE1BE6EC6239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{12B91246-E880-46F9-9A93-095FEC0B3220} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
 		{91301470-F8A6-43E8-9581-ED7F198A074E} = {2B384D5B-28E2-4ECC-9448-AE08C25E71A6}
 		{BD4E1660-1520-458B-A009-CE1BE6EC6239} = {BEF2A7F8-F779-4AFB-9488-DFE1FDA22E93}
+		{2E0E4D12-89D7-4EB6-AFC8-0AFFAF043880} = {BEF2A7F8-F779-4AFB-9488-DFE1FDA22E93}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55358A68-3DAB-494A-AD46-CF5CF98E0913}

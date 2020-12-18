@@ -5,23 +5,19 @@ namespace MessageClass
 {
     // Мешков Дмитрий
     //Разработать класс Message, содержащий следующие статические методы для обработки текста:
-    //а) Вывести только те слова сообщения, которые содержат не более n букв.
-    //б) Удалить из сообщения все слова, которые заканчиваются на заданный символ.
-    //в) Найти самое длинное слово сообщения.
-    //г) Сформировать строку с помощью StringBuilder из самых длинных слов сообщения.
-    //Продемонстрируйте работу программы на текстовом файле с вашей программой.
+
     class Message
     {
-        public static void PrintTheWordsWithLessThanNLetters(string text, int n)
+        public static void PrintTheWordsWithLessThanNLetters(string text, int n) //Вывести только те слова сообщения, которые содержат не более n букв.
         {
-            FileHandler.DeleteFileIfExists("PrintTheWordsWithLessThanNLetters.txt");
+            FileHandler.DeleteFileIfExists("PrintTheWordsWithLessThanNLetters.txt"); //Удаляем файл, если он существует
             string[] words = text.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
             foreach(string word in words)
             {
                 if (word.Length < n) FileHandler.WriteToFile("PrintTheWordsWithLessThanNLetters.txt", word);
             }
         }
-        public static void DeleteAllWordsEndingWith(string text, char symbol)
+        public static void DeleteAllWordsEndingWith(string text, char symbol) //Удалить из сообщения все слова, которые заканчиваются на заданный символ.
         {
             FileHandler.DeleteFileIfExists("DeleteAllWordsEndingWith.txt");
             string[] words = text.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
@@ -30,12 +26,12 @@ namespace MessageClass
                 if(!word.EndsWith(symbol.ToString())) FileHandler.WriteToFile("DeleteAllWordsEndingWith.txt", word);
             }
         }
-        public static void PrintOriginalText(string text)
+        public static void PrintOriginalText(string text) 
         {
             FileHandler.DeleteFileIfExists("OriginalText.txt");
             FileHandler.WriteToFile("OriginalText.txt", text);
         }
-        public static void TheLongestWord(string text)
+        public static void TheLongestWord(string text) //Найти самое длинное слово сообщения.
         {
             FileHandler.DeleteFileIfExists("TheLongestWord.txt");
             string theLongestWord = null;
@@ -46,7 +42,7 @@ namespace MessageClass
             }
             FileHandler.WriteToFile("TheLongestWord.txt", theLongestWord);
         }
-        public static void StringOfTheLongestWords(string text)
+        public static void StringOfTheLongestWords(string text) //Сформировать строку с помощью StringBuilder из самых длинных слов сообщения.
         {
             FileHandler.DeleteFileIfExists("StringOfTheLongestWords.txt");
             StringBuilder stringBuilder = new StringBuilder();

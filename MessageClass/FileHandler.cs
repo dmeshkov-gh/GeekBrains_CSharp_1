@@ -3,9 +3,9 @@ using System.IO;
 
 namespace MessageClass
 {
-    class FileHandler
+    class FileHandler //Класс для работы с файлами
     {
-        internal static void WriteToFile(string filename, string content)
+        internal static void WriteToFile(string filename, string content) //Записать в файл
         {
             try
             {

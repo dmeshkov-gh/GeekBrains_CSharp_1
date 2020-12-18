@@ -17,6 +17,7 @@ namespace MessageClass
     {
         static void Main()
         {
+            //Результаты записываются в текстовый файл
             string brodskiy = "Не выходи из комнаты, не совершай ошибку.";
             Message.PrintOriginalText(brodskiy);
             Message.PrintTheWordsWithLessThanNLetters(brodskiy, 7);
