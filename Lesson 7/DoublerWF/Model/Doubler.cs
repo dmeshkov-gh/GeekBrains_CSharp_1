@@ -9,7 +9,10 @@ namespace DoublerWF
     
     class Doubler
     {
+
+        public event Action IsGameEnded;
         public event Action Update;
+
         private int _current = 1;
         private int _steps = 0;
         Stack<int> history = new Stack<int>();
@@ -22,7 +25,7 @@ namespace DoublerWF
             {
                 int finish = Finish;
                 int minimalSteps = 0;
-                while(Finish != 1)
+                while(finish != 1)
                 {
                     finish = finish % 2 == 0 ? finish / 2 : finish - 1;
                     minimalSteps++;
@@ -43,6 +46,7 @@ namespace DoublerWF
             _current++;
             _steps++;
             Update?.Invoke();
+            IsGameEnded?.Invoke();
             return Current;
         }
 
@@ -52,12 +56,13 @@ namespace DoublerWF
             _current *= 2;
             _steps++;
             Update?.Invoke();
+            IsGameEnded?.Invoke();
             return Current;
         }
 
         public void Back()
         {
-            if(history.Count != 0) history.Pop();
+            if(history.Count != 0) _current = history.Pop();
             _steps--;
             Update?.Invoke();
         }
