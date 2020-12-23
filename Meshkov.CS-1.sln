@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyArray", "Frequency
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublerWF", "Lesson 7\DoublerWF\DoublerWF.csproj", "{613B1FB2-D0B2-43C6-BF14-F6022914D1A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessANumber", "Lesson 7\GuessANumber\GuessANumber.csproj", "{D9233340-B3DC-4128-BFB0-C90CE867A0EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{613B1FB2-D0B2-43C6-BF14-F6022914D1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{613B1FB2-D0B2-43C6-BF14-F6022914D1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{613B1FB2-D0B2-43C6-BF14-F6022914D1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9233340-B3DC-4128-BFB0-C90CE867A0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9233340-B3DC-4128-BFB0-C90CE867A0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9233340-B3DC-4128-BFB0-C90CE867A0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9233340-B3DC-4128-BFB0-C90CE867A0EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,6 +218,7 @@ Global
 		{F538D97D-2D76-43EF-AA99-363B780A6938} = {37F87EA6-1CEF-4111-A35D-D8A2022F41F8}
 		{95C71D3B-1A59-462E-B7D3-4281D9983721} = {FC62D7AD-7F6B-49D0-8FEA-6D1C3623C70E}
 		{613B1FB2-D0B2-43C6-BF14-F6022914D1A0} = {193450C2-B705-4056-91D5-E5B729A12EFD}
+		{D9233340-B3DC-4128-BFB0-C90CE867A0EF} = {193450C2-B705-4056-91D5-E5B729A12EFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55358A68-3DAB-494A-AD46-CF5CF98E0913}
